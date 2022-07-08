@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/font/roboto_bold.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_beginer.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_dashboard.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_highscore.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_levels.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_main.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_name.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/maja.tolj/Desktop/vts-learn-math-grana3/app/src/main/res/layout/activity_register.xml" value="0.1105072463768116" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
